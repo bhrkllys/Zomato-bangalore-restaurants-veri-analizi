@@ -13,7 +13,7 @@ Kaggle ortamında yürütülen bu çalışma, eksik verilerin gözlenmesi , dold
 
 | Sütun Adı                        | Açıklama                                                                 |
 |----------------------------------|-------------------------------------------------------------------------|
-| **rl**                           | Tanımlayıcı bir kod sütunu, detaylı bilgi içermiyor.                     |
+| **url**                           | Tanımlayıcı bir kod sütunu, detaylı bilgi içermiyor.                     |
 | **address**                      | Restoranın adres bilgisi.                                                |
 | **name**                         | Restoranın adı.                                                          |
 | **online_order**                 | Online sipariş seçeneğinin olup olmadığını belirtir (Evet/Hayır).        |
