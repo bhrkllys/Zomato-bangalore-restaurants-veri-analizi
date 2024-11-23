@@ -78,7 +78,7 @@ Kaggle ortamında yürütülen bu çalışma, eksik verilerin gözlenmesi , dold
 
 ## Proje Nasıl Çalıştırılır?
 
-1. Kaggle'da bu projeyi açın.
+1. Kaggle'da bu projeyi açın. (https://www.kaggle.com/code/baharkolluya/global-ai-hub-veri-analizi-e-itimi/edit#4.-S%C3%BCrekli-De%C4%9Fi%C5%9Fken-Analizi)
 2. Notebook'u kendi hesabınıza kopyalayarak çalıştırın.
 3. Verilen hücreleri sırasıyla çalıştırarak analizlerinizi inceleyin.
 
