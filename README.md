@@ -88,7 +88,7 @@ Kaggle ortamında yürütülen bu çalışma, eksik verilerin gözlenmesi , dold
 
 **Bahar Aslan**  
 -https://github.com/bhrkllys 
-- www.linkedin.com/in/bahar-aslan
+-www.linkedin.com/in/bahar-aslan
 
 ---
 
